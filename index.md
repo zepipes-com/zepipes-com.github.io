@@ -5,4 +5,4 @@ show_excerpts: true
 entries_layout: list
 ---
 
-![Splash Autumn 2022](/assets/images/LRM_20220908_151751-6.jpg)
+![Splash Autumn 2022](/assets/images/zepipesdotcom-logo001-2000-1x1.jpg)
