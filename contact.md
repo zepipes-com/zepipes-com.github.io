@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-# Email: zeinfo@zepipes.com
+![ZePipes.com Splash Autumn 2022](/assets/images/zepipesdotcom-logo001-2000-1x1.jpg)
 
-![Ze Pipes pipe #1](/assets/images/LRM_20220828_160644-3.jpg){width:50%;}
+<center>
+<h1>Email: zeinfo@zepipes.com</h1>
+</center>
