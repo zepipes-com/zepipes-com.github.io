@@ -27,7 +27,7 @@ url: "https://www.zepipes.com" # the base hostname & protocol for your site, e.g
 github_username:  zepipes-com
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # theme: jekyll-theme-so-simple
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/default.css"
 locale: en-US
 logo: "/assets/images/zepipesdotcom-logo001-512-1x1.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
