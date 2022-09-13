@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: virgin
 title: Contact
 permalink: /contact/
 ---

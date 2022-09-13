@@ -5,3 +5,4 @@ _site
 vendor
 _indocs
 Gemfile.lock
+.bundle
