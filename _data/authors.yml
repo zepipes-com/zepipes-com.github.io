@@ -1,0 +1,10 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Seraf:
+  name: Seraf Dos Santos
+  picture: "@serafdossantos"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square

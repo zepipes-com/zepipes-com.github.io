@@ -23,33 +23,31 @@ email: zeinfo@zepipes.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, my name is Seraf, I'm a pipe maker and I smoke ze tobacco pipe. I'm situated in Montréal, Canada, and I confect smoker pipes for tobacco and cannabis smoking.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ZePipesDotCom
+url: "https://www.zepipes.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zepipes-com
-
-# Build settings
-# theme: minima
-# theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/default.css"
+locale: en-US
+logo: "/assets/images/zepipesdotcom-logo001-512-1x1.jpg" # path of site logo, e.g. "/images/logo.png"
+date_format: "%B %-d, %Y"
+read_time: true # reading time estimates, e.g. true
+words_per_minute: 200
+mathjax:
+  enable: true # MathJax equations, e.g. true, false (default)
+  combo: "tex-svg" # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
+  tags: "ams" # "none", "ams" (default), "all"
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+disqus:
+  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+twitter:
+  username: ZePipesDotCom # site's Twitter username, e.g. "mmistakes"
+# Liquid
+liquid:
+  error_mode: strict
